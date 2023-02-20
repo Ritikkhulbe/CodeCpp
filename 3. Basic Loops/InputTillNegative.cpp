@@ -1,4 +1,4 @@
-//Taking input till the user inputs a negative integer
+//Taking input till the user inputs a negative integer.
 #include <iostream>
 using namespace std;
 
